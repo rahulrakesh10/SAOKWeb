@@ -72,19 +72,4 @@ A reusable card component from shadcn/ui for consistent UI elements.
 
 ## Customization
 
-### Update Spline Scene
-Replace the Spline scene URL in `app/page.tsx`:
-```tsx
-<SplineScene 
-  scene="YOUR_SPLINE_SCENE_URL"
-  className="w-full h-full"
-/>
-```
-
-### Modify Colors
-Update the color scheme in `app/globals.css` and `tailwind.config.ts`.
-
-### Add Projects
-Edit the projects section in `app/page.tsx` to add your own game development projects.
-
 
