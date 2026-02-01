@@ -87,14 +87,4 @@ Update the color scheme in `app/globals.css` and `tailwind.config.ts`.
 ### Add Projects
 Edit the projects section in `app/page.tsx` to add your own game development projects.
 
-## Build for Production
 
-```bash
-npm run build
-npm start
-```
-
-## License
-
-This project is private and proprietary.
-# SAOKWeb
