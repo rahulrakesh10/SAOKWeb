@@ -59,17 +59,4 @@ npm run dev
 └── public/                 # Static assets
 ```
 
-## Components
-
-### SplineScene
-A wrapper component for Spline 3D scenes with lazy loading and loading states.
-
-### Spotlight
-An interactive spotlight effect that follows mouse movement, built with Framer Motion.
-
-### Card
-A reusable card component from shadcn/ui for consistent UI elements.
-
-## Customization
-
 
