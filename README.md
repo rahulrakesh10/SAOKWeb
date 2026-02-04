@@ -20,7 +20,6 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
 
-## Getting Started
 
 ## Project Structure
 
