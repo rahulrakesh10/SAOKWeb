@@ -22,12 +22,6 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 
 ## Getting Started
 
-### Prerequisites
-
-- Node.js 18+ installed
-- npm or yarn package manager
-
-
 ## Project Structure
 
 ```
