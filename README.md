@@ -18,7 +18,6 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 - **UI Components**: shadcn/ui
 - **3D Graphics**: Spline (@splinetool/react-spline)
 - **Animations**: Framer Motion
-- **Icons**: Lucide React
 
 
 ## Project Structure
