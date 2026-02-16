@@ -17,7 +17,6 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
 - **3D Graphics**: Spline (@splinetool/react-spline)
-- **Animations**: Framer Motion
 
 
 ## Project Structure
