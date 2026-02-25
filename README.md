@@ -15,8 +15,6 @@ A modern, interactive portfolio website built with Next.js, React, TypeScript, a
 - **Framework**: Next.js 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI Components**: shadcn/ui
-
 
 ## Project Structure
 
